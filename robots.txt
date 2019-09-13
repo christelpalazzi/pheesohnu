@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oogiophiec.leotse90.com/sitemap.xml
